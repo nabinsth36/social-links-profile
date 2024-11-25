@@ -1,0 +1,7 @@
+/* custom.css to apply social link buttons */
+.social-btn {
+    @apply bg-gray-700 w-60 rounded-md py-2 text-center transition;
+  }
+  .social-btn:hover {
+    @apply bg-yellow-300 text-slate-900;
+  }
